@@ -1,0 +1,102 @@
+/* LOGIN STYLES */
+#login{
+	margin-bottom:30px;
+}
+
+p {
+  color: red;
+}
+
+
+#mainContainer {
+  padding: 15px;
+}
+
+.invslot {
+  border: 1px solid black;
+  padding: 5px;
+  height: 40px;
+  background-color:grey;
+}
+
+#inventory {
+  margin-top: 20px;
+  height: 200px;
+}
+
+#invImage{
+
+    display: block;
+    margin: auto;
+
+    height: auto;
+    max-height: 100%;
+
+    width: auto;
+    max-width: 100%;
+}
+
+#armourHelmet {
+  height: 40px;
+  border: 1px solid black;
+  background-color: rgb(140, 140, 140);
+  margin-bottom: 5px;
+}
+
+#armourBody {
+  height: 100px;
+  border: 1px solid black;
+  background-color: rgb(140, 140, 140);
+}
+
+#armourLegs {
+  height: 100px;
+  border: 1px solid black;
+  background-color: rgb(140, 140, 140);
+}
+
+#leftleg {
+  margin-top: 10px;
+  background-color: red;
+  height: 100px;
+  padding: 0px;
+  background-color: rgb(140, 140, 140);
+  border: 1px solid black;
+
+}
+
+#rightleg {
+  margin-top: 10px;
+  background-color: red;
+  height: 100px;
+  padding: 0;
+  background-color: rgb(140, 140, 140);
+  border: 1px solid black;
+
+}
+
+#armour {
+  margin-top: 15px;
+  height: 400px;
+}
+
+.no_all {
+  padding: 0!important;
+  margin: 0!important;
+}
+
+.banner {
+  background-color: #191919!important;
+  color: white;
+  padding: 10px 20px;
+  margin-top: 50px;
+  font-variant: small-caps;
+  font-weight: bold;
+  text-align: center;
+  font-size: 25px;
+}
+
+#menuContainer{
+  margin-bottom: 30px;
+}
+
